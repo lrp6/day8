@@ -1,0 +1,19 @@
+{
+    "name": "day8",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lrp6/day8.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lrp6/day8/issues"
+    },
+    "homepage": "https://github.com/lrp6/day8#readme"
+}
